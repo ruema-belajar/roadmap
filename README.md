@@ -20,7 +20,8 @@
 <br>
 <br>
 
-**Belajar yuk!**  
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> **Belajar yuk!**  
+
 Roadmap ini dibuat berdasarkan pengembangan karir di beberapa bidang sesuai dengan lapangan kerja yang terbuka.
 
 ---
@@ -34,6 +35,8 @@ Roadmap ini dibuat berdasarkan pengembangan karir di beberapa bidang sesuai deng
 
 ### [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 Langkah demi langkah panduan untuk belajar beberapa teknologi sebelum menjadi software developer
+- [Kurikulum](https://github.com/HackYourFuture/curriculum)
+- [Panduan-Panduan]()
 - [Front End Roadmap](https://roadmap.sh/frontend)
 - [Back End Roadmap](https://roadmap.sh/backend)
 - [DevOps](https://roadmap.sh/devops)
