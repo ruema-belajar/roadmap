@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/107087839?s=200&v=4" height="128">
-  <h2 align="center">RBL Roadmap</h2>
+  <h1 align="center">RBL Roadmap</h1>
   <p align="center">Sebuah panduan belajar berbasis komunitas dari tutorial-tutorial hingga panduan spesifik spesial untuk kamu<p>
   <p align="center">
     <a href="https://belajar.ruema.xyz/">
@@ -23,6 +23,13 @@
 **Belajar yuk!**  
 Roadmap ini dibuat berdasarkan pengembangan karir di beberapa bidang sesuai dengan lapangan kerja yang terbuka.
 
+---
+
+## Karir Path :
+- Softwate Developer
+- Enterpreuner
+- Etical Hacking
+
 ![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 ### [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -38,4 +45,13 @@ Langkah demi langkah panduan untuk belajar beberapa teknologi sebelum menjadi so
 - [DBA](https://roadmap.sh/postgresql-dba)
 
 ![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
+
+### [Enterpreuner Roadmap]()
+Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangun ide bisnisnya dan memberikan manfaat luas
+- [Start-up Awesome list](https://github.com/KrishMunot/awesome-startup)
+- [Entrepreneurship-Books](https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/README.md)
+- [Kisah Inspirasi](https://www.youtube.com/c/PecahTelur)
+
+![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
+
 
