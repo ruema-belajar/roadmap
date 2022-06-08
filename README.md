@@ -52,6 +52,10 @@ Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangu
 - [Passive Income List](https://github.com/yourincomehome/awesome-passive-income)
 - [Entrepreneurship-Books](https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/README.md)
 - [Kisah Inspirasi](https://www.youtube.com/c/PecahTelur)
+- [Startup Marketing Checklist](https://github.com/draftdev/startup-marketing-checklist)
+- [Project Checlist](https://github.com/amilajack/project-checklist)
+- [Awesome Startup Tools](https://github.com/Ibexoft/awesome-startup-tools-list)
+- [Awesome Ecommerce Technology Stack](https://github.com/astrotars/awesome-ecommerce-stack)
 
 ![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
@@ -60,6 +64,7 @@ Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangu
 - [Awesome Marketing list](https://github.com/ronakganatra/awesome-marketing)
 - [Digital Marketing Course](https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist)
 - [Marketing Untuk Engineers](https://github.com/goabstract/Marketing-for-Engineers)
+- [SEO lebih dalam](https://github.com/madawei2699/awesome-seo)
 
 ![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
