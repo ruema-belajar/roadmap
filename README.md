@@ -49,6 +49,7 @@ Langkah demi langkah panduan untuk belajar beberapa teknologi sebelum menjadi so
 ### [Enterpreuner Roadmap]()
 Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangun ide bisnisnya dan memberikan manfaat luas
 - [Start-up Awesome list](https://github.com/KrishMunot/awesome-startup)
+- [Passive Income List](https://github.com/yourincomehome/awesome-passive-income)
 - [Entrepreneurship-Books](https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/README.md)
 - [Kisah Inspirasi](https://www.youtube.com/c/PecahTelur)
 
