@@ -55,4 +55,11 @@ Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangu
 
 ![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
+### [Digtial Marketer Roadmap]()
+Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangun ide bisnisnya dan memberikan manfaat luas
+- [Awesome Marketing list](https://github.com/ronakganatra/awesome-marketing)
+- [Digital Marketing Course](https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist)
+- [Marketing Untuk Engineers](https://github.com/goabstract/Marketing-for-Engineers)
+
+![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
