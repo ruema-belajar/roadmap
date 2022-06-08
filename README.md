@@ -1,5 +1,6 @@
 # RBL Roadmap
 Belajar yuk!  
+Roadmap ini dibuat berdasarkan pengembangan karir di beberapa bidang sesuai dengan lapangan kerja yang terbuka.
 
 ### [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 Langkah demi langkah panduan untuk belajar beberapa teknologi sebelum menjadi software developer
