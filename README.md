@@ -57,7 +57,7 @@ Langkah demi langkah panduan untuk belajar menjadi pengusaha yang ingin membangu
 - [Project Checlist](https://github.com/amilajack/project-checklist)
 - [Awesome Startup Tools](https://github.com/Ibexoft/awesome-startup-tools-list)
 - [Awesome Ecommerce Technology Stack](https://github.com/astrotars/awesome-ecommerce-stack)
-- [Enterpreuner Assesment](https://twem.ca/assessment)
+- [Enterpreuner Assesment](https://twem.ca/assessment) / [Toolkit](https://www.rootapp.ca/toolkit)
 
 ![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
